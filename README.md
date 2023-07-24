@@ -13,7 +13,8 @@ Fitur :
 |  |  |
 |--|--|
 | *Fitur* | *Detail* |
-| ini fitur | ini detail |
+| Konversi Bilangan desimal ke Binaer | Mengonversi Bilangan dari bilangan desimal ke dalam bentuk bilangan biner |
+| Cari Informasi File                 | Mencari Informasi file dengan memasukkan Nama File |
 
 ### SCREENSHOT PROGRAM
 ![Aplikasi Gue]()
