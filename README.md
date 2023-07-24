@@ -17,4 +17,4 @@ Fitur :
 | Cari Informasi File                 | Mencari Informasi file dengan memasukkan Nama File |
 
 ### SCREENSHOT PROGRAM
-![Aplikasi Gue]()
+![Aplikasi Gue](https://github.com/BalyaAWfa/-UAS-PraktikumSistemOperasi/blob/main/Tampilan_Output1.png)
